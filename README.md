@@ -1,8 +1,9 @@
-Hi, I’m Mike Domansky.
-I'm a backend developer with 10+ years experience (monolith, microservices, API services) and product/project management. Reliable and hard-working.
+backend developer with 10+ years of experience. Microservice architecture, API services and team management. Reliable and hard-working. Scrum team player. Remote.
+
+PHP (Laravel, legacy), Golang, MySQL, Docker, Git, CI/CD, Jenkins.
+Microservice architecture, high load, Kibana on Logstash, Grafana on Prometheus, RESTful API, gRPC (protobuf).
 
 Proven experience in:
-
 * ERP system + CRM
 * ERP + catalog for real-estate agency
 * Online casino
